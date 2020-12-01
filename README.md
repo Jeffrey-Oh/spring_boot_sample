@@ -20,3 +20,22 @@ Version : 1.8 / 14
     - JAR
     - Spring Boot DevTools, Lombok, Spring Web
 ---
+
+## Dependency ADD
+ - [x] jasper
+ - [x] jstl
+ - [x] Gson
+ - [x] MySql
+ - [x] MyBatis
+ - [x] log4j2
+---
+## MyBatis Settings
+ - [x] MyBatisConfig.java
+ - [x] mybatis-config.xml
+
+## HikariCP Settings
+ - [x] application.yml UPDATE
+
+## logback Settings
+ - [x] log4jdbc.log4j2.yml
+ - [x] logback.xml
