@@ -28,7 +28,7 @@ Version : 1.8 / 14
  - [x] MySql
  - [x] MyBatis
  - [x] log4j2
- - [] aspectj
+ - [x] aspectj
 ---
 ## MyBatis Settings
  - [x] [MyBatisConfig.java](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/java/com/sample/MyBatisConfig.java)
@@ -42,4 +42,4 @@ Version : 1.8 / 14
  - [x] [logback.xml](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/resources/logback.xml)
 
 ## AOP Settings
- - [] Create SessionAspect
+ - [x] Create SessionAspect

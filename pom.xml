@@ -88,6 +88,12 @@
 			<version>1.16</version>
 		</dependency>
 
+		<!-- aspectj -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-aop</artifactId>
+		</dependency>
+
 	</dependencies>
 
 	<build>
