@@ -42,4 +42,4 @@ Version : 1.8 / 14
  - [x] [logback.xml](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/resources/logback.xml)
 
 ## AOP Settings
- - [x] Create SessionAspect
+ - [x] Create ApageSessionAspect
