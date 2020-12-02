@@ -21,21 +21,25 @@ Version : 1.8 / 14
     - Spring Boot DevTools, Lombok, Spring Web
 ---
 
-## Dependency ADD
+## Dependency
  - [x] jasper
  - [x] jstl
  - [x] Gson
  - [x] MySql
  - [x] MyBatis
  - [x] log4j2
+ - [] aspectj
 ---
 ## MyBatis Settings
- - [x] MyBatisConfig.java
- - [x] mybatis-config.xml
+ - [x] [MyBatisConfig.java](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/java/com/sample/MyBatisConfig.java)
+ - [x] [mybatis-config.xml](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/resources/mybatis/mybatis-config.xml)
 
 ## HikariCP Settings
- - [x] application.yml UPDATE
+ - [x] [application.yml](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/resources/application.yml) UPDATE
 
 ## logback Settings
- - [x] log4jdbc.log4j2.yml
- - [x] logback.xml
+ - [x] [log4jdbc.log4j2.yml](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/resources/log4jdbc.log4j2.yml)
+ - [x] [logback.xml](https://github.com/Jeffrey-Oh/spring_boot_sample/blob/master/src/main/resources/logback.xml)
+
+## AOP Settings
+ - [] Create SessionAspect
